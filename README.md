@@ -8,3 +8,6 @@ Follows Udemy's [React with Redux tutorial](https://www.udemy.com/react-redux/le
 * Lodash 3.10.1
 * YouTube API
 * Bootstrap v4
+
+
+###View branches to show projects 
