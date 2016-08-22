@@ -11,7 +11,8 @@ Follows Udemy's [React with Redux tutorial](https://www.udemy.com/react-redux/le
 * Redux-promise
 * Axios
 * React-sparklines
-* lodash
+* React-google-maps
+* Lodash
 * ES6
 * Bootstrap v4
 * OpenWeatherMap API  
