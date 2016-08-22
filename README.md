@@ -8,8 +8,10 @@ Follows Udemy's [React with Redux tutorial](https://www.udemy.com/react-redux/le
 ###Specs:  
 * React 0.14.3
 * Redux 3.0.4
+* Redux-promise 0.5.3
+* Axios 0.13.1
 * ES6
 * Bootstrap v4
+* OpenWeatherMap API  
 
-
-###View branches to show projects
+###Each project lives on a branch
